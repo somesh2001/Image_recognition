@@ -40,3 +40,6 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 <img src="https://user-images.githubusercontent.com/56119880/168426672-440af4ce-2ed0-4327-a36b-0d3c2a856fbc.png" height="560" /><br/>
 ## Splash Screen and Home page <br/>
 <img src="https://user-images.githubusercontent.com/56119880/168426957-d3dab841-a186-4a3d-a067-52179578c781.png" width="300" height="600" /><img src="https://user-images.githubusercontent.com/56119880/168426928-5da03559-e124-4005-8b9d-891380497410.png" width="300" height="600" /><img src="https://user-images.githubusercontent.com/56119880/168426928-5da03559-e124-4005-8b9d-891380497410.png" width="300" height="600" />
+
+## Doctor by category and precaution by category <br />
+<img src="https://user-images.githubusercontent.com/56119880/164434272-39110ab1-6793-4147-8e7d-7f7b2652ad23.png" width="340" height="690" /><img src="https://user-images.githubusercontent.com/56119880/164434656-569b1fb9-5cc3-45fd-a06d-7b8c0bd773d4.png" width="340" height="690" />
