@@ -24,3 +24,8 @@ XML is been used in order to create the user interface of the application.
 000Webhost is been used to host the Mobile application. This makes the application completely dynamic, In real time way data is been fetched and send to the server
 #### MYSQL <br/>
 MYSQL is used for database and SQL Query is been implemented at the backedend in order to fetch the data from the database.
+
+<br/>
+
+## Project Overview <br />
+![image](https://user-images.githubusercontent.com/56119880/168426427-560b4c53-784a-4309-96de-355bb2423736.png)<br />
