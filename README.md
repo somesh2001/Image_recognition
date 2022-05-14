@@ -39,4 +39,4 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 ## CNN Model Block Diagram) <br/>
 <img src="https://user-images.githubusercontent.com/56119880/168426672-440af4ce-2ed0-4327-a36b-0d3c2a856fbc.png" height="560" /><br/>
 ## Splash Screen and Home page <br/>
-<img src="https://user-images.githubusercontent.com/56119880/168426957-d3dab841-a186-4a3d-a067-52179578c781.png" width="300" height="620" margin = "50"/><img src="https://user-images.githubusercontent.com/56119880/168426928-5da03559-e124-4005-8b9d-891380497410.png" width="300" height="610"/>
+<img src="https://user-images.githubusercontent.com/56119880/168426957-d3dab841-a186-4a3d-a067-52179578c781.png" width="300" height="620" margin = "500"/><img src="https://user-images.githubusercontent.com/56119880/168426928-5da03559-e124-4005-8b9d-891380497410.png" width="300" height="610"/>
