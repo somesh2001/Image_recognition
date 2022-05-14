@@ -43,3 +43,17 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 
 ## Calorie and Recipe Option<br/>
 <img src="https://user-images.githubusercontent.com/56119880/168427658-c7e364ec-6590-44dd-9104-d29e9a8224e1.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168427682-0a790fd5-ba35-474e-bcf8-27e74c21c07a.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168427704-b0406d35-e45f-4b48-b5d9-e06dcf18c558.png" width="250" height="500" />
+
+
+## Recipe Page and Recipe Detail<br/>
+<img src="https://user-images.githubusercontent.com/56119880/168427956-6ad9510a-fde4-4bfe-9c99-deda23c99fb4.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168427825-12c31a88-e70f-45c9-ac63-fdea3cf66b9f.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168427917-9afd3456-88ea-4a7a-9a50-8f7ced7dcb42.png" width="250" height="500" />
+
+
+
+## Detect Vegetables<br/>
+<img src="https://user-images.githubusercontent.com/56119880/168427973-87a7bd8d-2898-4d61-9632-a91ac626a6f5.png" width="250" height="500" />----------<img src="https://user-images.githubusercontent.com/56119880/168427998-72c1be6c-ae81-46ce-8ca4-09ef91ddd605.png" width="250" height="500" />
+
+
+
+## Detect quality of fruit<br/>
+<img src="https://user-images.githubusercontent.com/56119880/168428031-ad7b5da7-541a-4972-adc0-e6da8ae0b3e0.png" width="250" height="500" />----------<img src="https://user-images.githubusercontent.com/56119880/168428058-76b9e6df-3cc5-4d74-bbfd-cacbe3fc9dad.png" width="250" height="500" />
