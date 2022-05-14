@@ -38,6 +38,8 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 
 ## CNN Model Block Diagram) <br/>
 <img src="https://user-images.githubusercontent.com/56119880/168426672-440af4ce-2ed0-4327-a36b-0d3c2a856fbc.png" height="560" /><br/>
+
+## Result and Output<br/>
 ## Splash Screen, Home page & fruit detector<br/>
 <img src="https://user-images.githubusercontent.com/56119880/168426957-d3dab841-a186-4a3d-a067-52179578c781.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168426928-5da03559-e124-4005-8b9d-891380497410.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168427020-e604a411-4632-4233-95ac-09c50c0adcc2.png" width="250" height="500" />
 
@@ -57,3 +59,8 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 
 ## Detect quality of fruit<br/>
 <img src="https://user-images.githubusercontent.com/56119880/168428031-ad7b5da7-541a-4972-adc0-e6da8ae0b3e0.png" width="250" height="500" />----------<img src="https://user-images.githubusercontent.com/56119880/168428058-76b9e6df-3cc5-4d74-bbfd-cacbe3fc9dad.png" width="250" height="500" />
+
+
+
+### Identify fruits with different color and shape<br/>
+<img src="https://user-images.githubusercontent.com/56119880/168428078-4a7d7e6b-020a-4e47-b66a-e159c3b2834e.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168428146-9cfa4b06-fee5-4592-89de-d740219ab54e.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168428159-fb013b6f-b218-4659-b1de-fd28d7a352db.png" width="250" height="500" />
