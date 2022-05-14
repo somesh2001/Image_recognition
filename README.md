@@ -1,4 +1,4 @@
-# Image_recognition
+# DEEP LEARNING BASED: CALORIE COUNTER AND RECIPE RECOMMENDATION MOBILE APP 
 ## Problem Statement
 Development of the mobile application for the assessment of fruit and vegetable health and provide the calories, recipe suggestion and ingredients by identifying the item using AI based image recognition approach 
 
