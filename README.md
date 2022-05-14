@@ -31,4 +31,4 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 ![image](https://user-images.githubusercontent.com/56119880/168426427-560b4c53-784a-4309-96de-355bb2423736.png)<br />
 
 ## Sequence Flow <br/>
-<img src="https://user-images.githubusercontent.com/56119880/168426482-b48b737c-fa09-4ff0-a2ab-dcade9d0f62b.png" width="365" height="670" />
+<img src="https://user-images.githubusercontent.com/56119880/168426482-b48b737c-fa09-4ff0-a2ab-dcade9d0f62b.png" width="600" height="670" />
