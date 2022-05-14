@@ -36,8 +36,11 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 ## Data Flow Diagram (DFD) <br/>
 <img src="https://user-images.githubusercontent.com/56119880/168426580-88322e33-82eb-4724-93dd-a40648e7c29d.png" height="800" /><br/>
 
-## CNN Model Block Diagram) <br/>
+## CNN Model Block Diagram <br/>
 <img src="https://user-images.githubusercontent.com/56119880/168426672-440af4ce-2ed0-4327-a36b-0d3c2a856fbc.png" height="560" /><br/>
+
+## Database Design<br/>
+<img src="https://user-images.githubusercontent.com/56119880/168428209-b7679377-2c08-4442-a4d3-c9e150fd99c6.png" height="560" /><br/>
 
 ## Result and Output<br/>
 ## Splash Screen, Home page & fruit detector<br/>
