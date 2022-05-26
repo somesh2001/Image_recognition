@@ -67,3 +67,5 @@ MYSQL is used for database and SQL Query is been implemented at the backedend in
 
 ### Identify fruits with different color and shape<br/>
 <img src="https://user-images.githubusercontent.com/56119880/168428078-4a7d7e6b-020a-4e47-b66a-e159c3b2834e.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168428146-9cfa4b06-fee5-4592-89de-d740219ab54e.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/168428159-fb013b6f-b218-4659-b1de-fd28d7a352db.png" width="250" height="500" />
+
+<img src="https://user-images.githubusercontent.com/56119880/170473790-af4bc728-c31a-4de7-8f36-ba9dedf7ff60.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/170473975-f1c8f9ad-94c8-428c-8393-bb0015286716.png" width="250" height="500" />------<img src="https://user-images.githubusercontent.com/56119880/170474191-ebb5ff74-69d9-4c8b-a88b-988a77f5bf64.png" width="250" height="500" />
